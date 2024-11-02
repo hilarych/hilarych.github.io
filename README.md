@@ -52,8 +52,11 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 - BSc, Earth Sciences, Memorial University of Newfoundland, 2019
 - BBA, Finance, National Taiwan University, 2009
 
+  [[My CV]](./doc/CV_ChangH_202410.pdf)
+
 ## My works
 
 - Urban site characterization using the telecom cable on the MIT campus: [[Chang & Nakata, 2024 (TLE)]](./doc/tle43110747.1.pdf)
+- Investigating site effects in microearthquake source parameter estimation using a dense array in Oklahoma: [[Chang et al., 2023 (JGR)]](https://doi.org/10.1029/2023JB027144)
 
 
