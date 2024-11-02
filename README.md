@@ -27,7 +27,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## About Me
 
-I am a 6th-year PhD student studying geophysics and seismology. 
+I am a 6th-year PhD student studying geophysics and seismology at Massachusetts Institute of Technology. 
 
 My research interests are
 
