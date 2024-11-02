@@ -56,10 +56,24 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 
 ## Research
 
-- Urban site characterization using the telecom cable on the MIT campus: [[Chang & Nakata, 2024 (TLE)]](./doc/tle43110747.1.pdf)
-- Quantifying site effects and their influence on earthquake source parameter estimations using a dense array in Oklahoma: [[Chang et al., 2023 (JGR)]](https://doi.org/10.1029/2023JB027144)
-- Investigation of time-lapse changes with DAS borehole data at the Brady geothermal field using deconvolution interferometry: [[Chang & Nakata, 2022 (Remote Sensing)]](https://doi.org/10.3390/rs14010185)
-- HDF5eis: A storage and input/output solution for big multidimensional time series data from environmental sensors: [[White et al., 2023 (Geophysics)]](https://doi.org/10.1190/geo2022-0448.1)
-- Microscopic defect dynamics during a brittle-to-ductile transition: [[O’Ghaffar et al., 2023 (PNAS)]](https://doi.org/10.1073/pnas.2305667120)
-- Quantifying the Sensitivity of Microearthquake Slip Inversions to Station Distribution Using a Dense Nodal Array [[Pennington et al., 2022 (BSSA)]](https://doi.org/10.1785/0120210279)
+Chang, H., & Nakata, N. (2024). Urban site characterization using DAS dark fibers on the MIT campus in Cambridge, Massachusetts. The Leading Edge, 43 (11): 747–756. [[PDF]](./doc/tle43110747.1.pdf) [[Online]]([./doc/tle43110747.1.pdf](https://doi.org/10.1190/tle43110747.1))
+
+Chang, H., Abercrombie, R. E., Nakata, N., Pennington, C. N., Kemna, K. B., Cochran, E. S., & Harrington, R. M. (2023). Quantifying site effects and their influence on earthquake source parameter estimations using a dense array in Oklahoma. Journal of Geophysical Research: Solid Earth, 128(9), e2023JB027144.  [[Link]](https://doi.org/10.1029/2023JB027144)
+
+O’Ghaffari, H., Peč, M., Mittal, T., Mok, U., Chang, H., & Evans, B. (2023). Microscopic defect dynamics during a brittle-to-ductile transition. Proceedings of the National Academy of Sciences, 120(42), e2305667120. [[Link]](https://doi.org/10.1073/pnas.2305667120)
+
+White, M. C., Zhang, Z., Bai, T., Qiu, H., Chang, H., & Nakata, N. (2023). HDF5eis: A storage and input/output solution for big multidimensional time series data from environmental sensors. Geophysics, 88(3), F29-F38. [[Link]](https://doi.org/10.1190/geo2022-0448.1)
+
+Chang, H., & Nakata, N. (2022). Investigation of time-lapse changes with DAS borehole data at the Brady Geothermal Field using deconvolution interferometry. Remote Sensing, 14(1), 185. [[Link]](https://doi.org/10.3390/rs14010185)
+
+Pennington, C. N., Chang, H., Rubinstein, J. L., Abercrombie, R. E., Nakata, N., Uchide, T., & Cochran, E. S. (2022). Quantifying the sensitivity of microearthquake slip inversions to station distribution using a dense nodal array. Bulletin of the Seismological Society of America, 112(3), 1252-1270. [[Link]](https://doi.org/10.1785/0120210279)
+
+**In Review:**
+
+Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2024). Investigation of site amplifications using ambient-noise-derived shallow velocity structures under a dense array in Oklahoma. [Manuscript submitted in April 2024].
+
+Chang, H., Abercrombie, R. E., & Nakata, N. (2024). Importance of considering site effects in earthquake source parameter estimates: Insights from shallow attenuation at a dense array in Oklahoma. [Manuscript submitted in June 2024].
+
+
+
 
