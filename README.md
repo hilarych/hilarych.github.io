@@ -24,3 +24,19 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 --->
 
 
+
+
+I am a 6th-year PhD student studying geophysics and seismology. My research interests are
+
+- Source characterization for small to moderate earthquakes.
+-	Near-surface structure.
+-	Ambient noise seismology.
+-	Fiber-optic seismology.
+-	Applications in reservoir and fault monitoring, geothermal exploration, and carbon storage.
+
+
+## Education
+
+PhD candidate, Geophysics, Massachusetts Institute of Technology, 2019 - present
+BSc, Earth Sciences, Memorial University of Newfoundland, 2019
+BBA, Finance, National Taiwan University, 2009
