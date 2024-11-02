@@ -56,7 +56,7 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 
 ## Research
 
-Chang, H., & Nakata, N. (2024). Urban site characterization using DAS dark fibers on the MIT campus in Cambridge, Massachusetts. The Leading Edge, 43 (11): 747–756. [[PDF]](./doc/tle43110747.1.pdf) [[Journal]]([./doc/tle43110747.1.pdf](https://doi.org/10.1190/tle43110747.1))
+Chang, H., & Nakata, N. (2024). Urban site characterization using DAS dark fibers on the MIT campus in Cambridge, Massachusetts. The Leading Edge, 43 (11): 747–756. [[PDF]](./doc/tle43110747.1.pdf) [[Journal]](https://doi.org/10.1190/tle43110747.1)
 
 Chang, H., Abercrombie, R. E., Nakata, N., Pennington, C. N., Kemna, K. B., Cochran, E. S., & Harrington, R. M. (2023). Quantifying site effects and their influence on earthquake source parameter estimations using a dense array in Oklahoma. Journal of Geophysical Research: Solid Earth, 128(9), e2023JB027144.  [[Link]](https://doi.org/10.1029/2023JB027144)
 
