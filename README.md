@@ -37,6 +37,6 @@ I am a 6th-year PhD student studying geophysics and seismology. My research inte
 
 ## Education
 
-PhD candidate, Geophysics, Massachusetts Institute of Technology, 2019 - present
-BSc, Earth Sciences, Memorial University of Newfoundland, 2019
-BBA, Finance, National Taiwan University, 2009
+- PhD candidate, Geophysics, Massachusetts Institute of Technology, 2019 - present
+- BSc, Earth Sciences, Memorial University of Newfoundland, 2019
+- BBA, Finance, National Taiwan University, 2009
