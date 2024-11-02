@@ -2,6 +2,6 @@
 #plugins: - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Hilary Chang
-logo: /pics/duck-icon.png
+logo: /pics/Dr.C.png
 description: A geophysicist/seismologist interested in characterizing the disturbances in the near-surface.
 theme: jekyll-theme-minimal
