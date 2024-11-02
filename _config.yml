@@ -1,3 +1,7 @@
-remote_theme: pages-themes/minimal@v0.2.0 # theme: jekyll-theme-tactile
+#remote_theme: pages-themes/minimal@v0.2.0 # theme: jekyll-theme-tactile
 #plugins: - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+title: Hilary Chang
+logo: /pics/duck-icon.png
+description: My Blog
+theme: jekyll-theme-minimal
