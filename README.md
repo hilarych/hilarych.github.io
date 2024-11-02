@@ -54,9 +54,12 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 
   [[My CV]](./doc/CV_ChangH_202410.pdf)
 
-## My works
+## Research
 
 - Urban site characterization using the telecom cable on the MIT campus: [[Chang & Nakata, 2024 (TLE)]](./doc/tle43110747.1.pdf)
-- Investigating site effects in microearthquake source parameter estimation using a dense array in Oklahoma: [[Chang et al., 2023 (JGR)]](https://doi.org/10.1029/2023JB027144)
-
+- Quantifying site effects and their influence on earthquake source parameter estimations using a dense array in Oklahoma: [[Chang et al., 2023 (JGR)]](https://doi.org/10.1029/2023JB027144)
+- Investigation of time-lapse changes with DAS borehole data at the Brady geothermal field using deconvolution interferometry: [[Chang & Nakata, 2022 (Remote Sensing)]](https://doi.org/10.3390/rs14010185)
+- HDF5eis: A storage and input/output solution for big multidimensional time series data from environmental sensors: [[White et al., 2023 (Geophysics)]](https://doi.org/10.1190/geo2022-0448.1)
+- Microscopic defect dynamics during a brittle-to-ductile transition: [[O’Ghaffar et al., 2023 (PNAS)]](https://doi.org/10.1073/pnas.2305667120)
+- Quantifying the Sensitivity of Microearthquake Slip Inversions to Station Distribution Using a Dense Nodal Array [[Pennington et al., 2022 (BSSA)]](https://doi.org/10.1785/0120210279)
 
