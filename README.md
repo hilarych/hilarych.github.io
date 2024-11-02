@@ -26,7 +26,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-I am a 6th-year PhD student studying geophysics and seismology. My research interests are
+I am a 6th-year PhD student studying geophysics and seismology. 
+
+My research interests are
 
 - Source characterization for small to moderate earthquakes.
 -	Near-surface structure.
@@ -34,6 +36,7 @@ I am a 6th-year PhD student studying geophysics and seismology. My research inte
 -	Fiber-optic seismology.
 -	Applications in reservoir and fault monitoring, geothermal exploration, and carbon storage.
 
+In my free time, I like paddling, sailing on the Charles River, and rollerblading along the riverside.
 
 ## Education
 
