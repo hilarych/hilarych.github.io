@@ -25,6 +25,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
+## About Me
 
 I am a 6th-year PhD student studying geophysics and seismology. 
 
@@ -38,8 +39,21 @@ My research interests are
 
 In my free time, I like paddling, sailing on the Charles River, and rollerblading along the riverside.
 
+<figure>
+<img src="./pics/IMG_7096.JPG" alt="Fig 1. Waiting for the geese to cross the river." width="600">
+<figcaption>Fig 1. Waiting for the geese to cross the river.</figcaption>
+</figure>
+
+
+
 ## Education
 
 - PhD candidate, Geophysics, Massachusetts Institute of Technology, 2019 - present
 - BSc, Earth Sciences, Memorial University of Newfoundland, 2019
 - BBA, Finance, National Taiwan University, 2009
+
+## My works
+
+- Urban site characterization using the telecom cable on the MIT campus: [[Chang & Nakata, 2024 (TLE)]](./doc/tle43110747.1.pdf)
+
+
