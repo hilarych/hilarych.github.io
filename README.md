@@ -56,6 +56,8 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 
 ## Research
 
+Chang, H., Abercrombie, R. E., & Nakata, N. (2024). Importance of considering site effects in earthquake source parameter estimates: Insights from shallow attenuation at a dense array in Oklahoma. [Manuscript accepted for publicaion in Bulletin of the Seismological Society of America]. [[Accepted manuscript]](./doc/Chang_Abercrombie_Nakata_2024_BSSA.pdf)
+
 Chang, H., & Nakata, N. (2024). Urban site characterization using DAS dark fibers on the MIT campus in Cambridge, Massachusetts. The Leading Edge, 43 (11): 747–756. [[PDF]](./doc/4311_TSS_Chang.pdf) [[Journal]](https://doi.org/10.1190/tle43110747.1)
 
 Chang, H., Abercrombie, R. E., Nakata, N., Pennington, C. N., Kemna, K. B., Cochran, E. S., & Harrington, R. M. (2023). Quantifying site effects and their influence on earthquake source parameter estimations using a dense array in Oklahoma. Journal of Geophysical Research: Solid Earth, 128(9), e2023JB027144.  [[Link]](https://doi.org/10.1029/2023JB027144)
@@ -72,7 +74,6 @@ Pennington, C. N., Chang, H., Rubinstein, J. L., Abercrombie, R. E., Nakata, N.,
 
 Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2024). Investigation of site amplifications using ambient-noise-derived shallow velocity structures under a dense array in Oklahoma. [Manuscript submitted in April 2024].
 
-Chang, H., Abercrombie, R. E., & Nakata, N. (2024). Importance of considering site effects in earthquake source parameter estimates: Insights from shallow attenuation at a dense array in Oklahoma. [Manuscript submitted in June 2024].
 
 
 
