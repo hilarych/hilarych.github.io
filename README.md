@@ -52,7 +52,7 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 - BSc, Earth Sciences, Memorial University of Newfoundland, 2019
 - BBA, Finance, National Taiwan University, 2009
 
-  [[My CV]](./doc/CV_ChangH_202410.pdf)
+  [[My CV]](./doc/CV_ChangH.pdf)
 
 ## Research
 
