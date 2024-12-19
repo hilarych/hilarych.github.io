@@ -56,7 +56,8 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 
 ## Research
 
-Chang, H., Abercrombie, R. E., & Nakata, N. (2024). Importance of considering site effects in earthquake source parameter estimates: Insights from shallow attenuation at a dense array in Oklahoma. [Manuscript accepted for publicaion in Bulletin of the Seismological Society of America]. [[Accepted manuscript]](./doc/Chang_Abercrombie_Nakata_2024_BSSA.pdf)
+Chang, H., Abercrombie, R. E., & Nakata, N. (2024). Importance of considering site effects in earthquake source parameter estimates: Insights from shallow attenuation at a dense array in Oklahoma. [Manuscript accepted for publicaion in Bulletin of the Seismological Society of America]. 
+<!---[[Accepted manuscript]](./doc/Chang_Abercrombie_Nakata_2024_BSSA.pdf)--->
 
 Chang, H., & Nakata, N. (2024). Urban site characterization using DAS dark fibers on the MIT campus in Cambridge, Massachusetts. The Leading Edge, 43 (11): 747–756. [[PDF]](./doc/4311_TSS_Chang.pdf) [[Journal]](https://doi.org/10.1190/tle43110747.1)
 
