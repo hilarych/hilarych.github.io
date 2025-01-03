@@ -70,11 +70,11 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
 
 ## Research
 
-Chang, H., Abercrombie, R. E., & Nakata, N. (2025). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: [https://doi.org/10.1785/0120240137](https://doi.org/10.1785/0120240137) [[PDF]](./doc/bssa-2024137.1_accepted.pdf) [[Supplement PDF]](./doc/bssa-2024137_accepted_supplement.pdf)
+Chang, H., Abercrombie, R. E., & Nakata, N. (2025). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: [10.1785/0120240137](https://doi.org/10.1785/0120240137) [[PDF]](./doc/bssa-2024137.1_accepted.pdf) [[AGU Poster]](https://doi.org/10.22541/essoar.173557447.71449637/v1) [[Supplement PDF]](./doc/bssa-2024137_accepted_supplement.pdf)
 
 Chang, H, Nakata, N., Abercrombie, R.E, Dadi, S. and Titov, T. (Dec 2024). Toward reliable estimation of source parameters using Distributed Acoustic Sensing for microearthquakes in the Cape Modern geothermal field, Utah. Poster presentation at the AGU Fall Annual Meeting, Washington, DC, USA. [[Poster]](https://doi.org/10.22541/essoar.173463098.87413304/v1)
 
-Chang, H., & Nakata, N. (2024). Urban site characterization using DAS dark fibers on the MIT campus in Cambridge, Massachusetts. The Leading Edge, 43 (11): 747–756. [[PDF]](./doc/4311_TSS_Chang.pdf) [[Journal]](https://doi.org/10.1190/tle43110747.1)
+Chang, H., & Nakata, N. (2024). Urban site characterization using DAS dark fibers on the MIT campus in Cambridge, Massachusetts. The Leading Edge, 43 (11): 747–756. [[PDF]](./doc/4311_TSS_Chang.pdf) [[Journal]](https://doi.org/10.1190/tle43110747.1) [[AGU Poster]](https://doi.org/10.22541/essoar.173557430.00011437/v1)
 
 Chang, H., Abercrombie, R. E., Nakata, N., Pennington, C. N., Kemna, K. B., Cochran, E. S., & Harrington, R. M. (2023). Quantifying site effects and their influence on earthquake source parameter estimations using a dense array in Oklahoma. Journal of Geophysical Research: Solid Earth, 128(9), e2023JB027144.  [[Link]](https://doi.org/10.1029/2023JB027144)
 
