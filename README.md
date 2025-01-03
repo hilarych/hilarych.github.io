@@ -32,21 +32,22 @@ I am a 6th-year PhD student studying geophysics and seismology at Massachusetts 
 My research interests are
 
 - Source characterization for small to moderate earthquakes.
--	Near-surface structure.
+-	Near-surface structure (Fig. 1,2).
 -	Ambient noise seismology.
--	Fiber-optic seismology.
+-	Fiber-optic seismology (Fig. 3).
 -	Applications in reservoir and fault monitoring, geothermal exploration, and carbon storage.
 
-In my free time, I like paddling, sailing on the Charles River, and rollerblading along the riverside.
+In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rollerblading along the riverside.
+
 
 <figure>
-<img src="./pics/IMG_7096.JPG" alt="Fig 1. Waiting for the geese to cross the river." width="600">
-<figcaption>Fig 1. Waiting for the geese to cross the river.</figcaption>
+<img src="./pics/Campus_Blackberry_Test.png" alt="Fig 1. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan)." height="400">
+<figcaption>Fig 1. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan).</figcaption>
 </figure>
 
 <figure>
-<img src="./pics/Campus_Blackberry_Test.png" alt="Fig 2. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan)." height="400">
-<figcaption>Fig 2. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan).</figcaption>
+<img src="./pics/Hammer_on_Briggs.jpg" alt="Fig 2. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan." height="400">
+<figcaption>Fig 2. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan.</figcaption>
 </figure>
 
 <figure>
@@ -55,8 +56,8 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 </figure>
 
 <figure>
-<img src="./pics/Hammer_on_Briggs.jpg" alt="Fig 4. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan." height="400">
-<figcaption>Fig 4. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan.</figcaption>
+<img src="./pics/IMG_7096.JPG" alt="Fig 4. Waiting for the geese to cross the river." width="600">
+<figcaption>Fig 4. Waiting for the geese to cross the river.</figcaption>
 </figure>
 
 ## Education
