@@ -46,13 +46,13 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
 </figure>
 
 <figure>
-<img src="./pics/Hammer_on_Briggs.jpg" alt="Fig 2. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan." height="400">
-<figcaption>Fig 2. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan.</figcaption>
+<img src="./pics/Hammer_on_Briggs.jpg" alt="Fig 2. Performing a geophone survey on campus (left to right: Denzel Segbefia, myself). Picture credit: Congcong Yuan." height="400">
+<figcaption>Fig 2. Performing a geophone survey on campus (left to right: Denzel Segbefia, myself). Picture credit: Congcong Yuan.</figcaption>
 </figure>
 
 <figure>
-<img src="./pics/MIT_DAS_hub.jpeg" alt="Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: Me, John A. Morgante)." height="400">
-<figcaption>Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: Me, John A. Morgante).</figcaption>
+<img src="./pics/MIT_DAS_hub.jpeg" alt="Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: myself, John A. Morgante)." height="400">
+<figcaption>Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: myself, John A. Morgante).</figcaption>
 </figure>
 
 <figure>
