@@ -56,7 +56,7 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 
 ## Research
 
-Chang, H., Abercrombie, R. E., & Nakata, N. (2025). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: https://doi.org/10.1785/0120240137 [[PDF]](./doc/bssa-2024137.1_accepted.pdf) [[Journal]](https://doi.org/10.1785/0120240137) [[Supplement PDF]](./doc/bssa-2024137_accepted_supplement.pdf)
+Chang, H., Abercrombie, R. E., & Nakata, N. (2025). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: https://doi.org/10.1785/0120240137 [[PDF]](./doc/bssa-2024137.1_accepted.pdf) [[Supplement PDF]](./doc/bssa-2024137_accepted_supplement.pdf)
 
 Chang, H, Nakata, N., Abercrombie, R.E, Dadi, S. and Titov, T. (Dec 2024). Toward reliable estimation of source parameters using Distributed Acoustic Sensing for microearthquakes in the Cape Modern geothermal field, Utah. Poster presentation at the AGU Fall Annual Meeting, Washington, DC, USA. [[Poster]](https://doi.org/10.22541/essoar.173463098.87413304/v1)
 
