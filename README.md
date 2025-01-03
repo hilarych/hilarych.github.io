@@ -55,7 +55,7 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 </figure>
 
 <figure>
-<img src="./pics/Hammer_on_Briggs.HEIC" alt="Fig 4. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan." height="400">
+<img src="./pics/Hammer_on_Briggs.jpg" alt="Fig 4. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan." height="400">
 <figcaption>Fig 4. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan.</figcaption>
 </figure>
 
