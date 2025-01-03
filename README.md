@@ -86,6 +86,9 @@ Chang, H., & Nakata, N. (2022). Investigation of time-lapse changes with DAS bor
 
 Pennington, C. N., Chang, H., Rubinstein, J. L., Abercrombie, R. E., Nakata, N., Uchide, T., & Cochran, E. S. (2022). Quantifying the sensitivity of microearthquake slip inversions to station distribution using a dense nodal array. Bulletin of the Seismological Society of America, 112(3), 1252-1270. [[Link]](https://doi.org/10.1785/0120210279)
 
+Chang, H., Malcolm, A., Massin, F., and Grigoli, F. (Feb/Apr/May 2019). Automatic earthquake locating using characteristic functions in a source scanning method. Oral presentation at the GACNL Annual Technical Meeting, St John’s, NL, Canada (February); poster presentation at the EGU General Assembly, Vienna, Austria (April); invited poster presentation at the JpGU Annual Meeting, Chiba, Japan. [[Poster]](./doc/EGU_2019poster_HC_1(CC-BY).pdf)
+
+
 **In Review:**
 
 Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2024). Investigation of site amplifications using ambient-noise-derived shallow velocity structures under a dense array in Oklahoma. [Manuscript submitted in April 2024].
