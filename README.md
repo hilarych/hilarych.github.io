@@ -56,9 +56,9 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 
 ## Research
 
-Chang, H, Nakata, N., Abercrombie, R.E, Dadi, S. and Titov, T. (2024, Dec). Toward reliable estimation of source parameters using Distributed Acoustic Sensing for microearthquakes in the Cape Modern geothermal field, Utah. Poster presentation at the AGU Fall Annual Meeting, Washington, DC, USA. [[Poster]](https://doi.org/10.22541/essoar.173463098.87413304/v1)
+Chang, H, Nakata, N., Abercrombie, R.E, Dadi, S. and Titov, T. (Dec 2024). Toward reliable estimation of source parameters using Distributed Acoustic Sensing for microearthquakes in the Cape Modern geothermal field, Utah. Poster presentation at the AGU Fall Annual Meeting, Washington, DC, USA. [[Poster]](https://doi.org/10.22541/essoar.173463098.87413304/v1)
 
-Chang, H., Abercrombie, R. E., & Nakata, N. (2024). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Accepted for publication in the Bulletin of the Seismological Society of America.
+Chang, H., Abercrombie, R. E., & Nakata, N. (2024). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: https://doi.org/10.1785/0120240137 
 <!---[[Accepted manuscript]](./doc/Chang_Abercrombie_Nakata_2024_BSSA.pdf)--->
 
 Chang, H., & Nakata, N. (2024). Urban site characterization using DAS dark fibers on the MIT campus in Cambridge, Massachusetts. The Leading Edge, 43 (11): 747–756. [[PDF]](./doc/4311_TSS_Chang.pdf) [[Journal]](https://doi.org/10.1190/tle43110747.1)
