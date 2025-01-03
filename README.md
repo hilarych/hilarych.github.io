@@ -42,7 +42,7 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
 
 <figure>
 <img src="./pics/Campus_Blackberry_Test.png" alt="Fig 1. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan)." height="400">
-<figcaption>Fig 1. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan).</figcaption>
+<figcaption>Fig 1. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan). Picture credit: William Frank. </figcaption>
 </figure>
 
 <figure>
@@ -52,7 +52,7 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
 
 <figure>
 <img src="./pics/MIT_DAS_hub.jpeg" alt="Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: myself, John A. Morgante)." height="400">
-<figcaption>Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: myself, John A. Morgante).</figcaption>
+<figcaption>Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: myself, John A. Morgante). Picture credit: Agatha Podrasky.</figcaption>
 </figure>
 
 <figure>
