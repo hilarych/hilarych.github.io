@@ -44,7 +44,20 @@ In my free time, I like paddling, sailing on the Charles River, and rollerbladin
 <figcaption>Fig 1. Waiting for the geese to cross the river.</figcaption>
 </figure>
 
+<figure>
+<img src="./pics/Campus_Blackberry_Test.png" alt="Fig 2. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan)." height="400">
+<figcaption>Fig 2. Testing the Blackberry Shake on campus (left to right: myself, Ayako Tsuchiyama, Jared Bryan).</figcaption>
+</figure>
 
+<figure>
+<img src="./pics/MIT_DAS_hub.jpeg" alt="Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: Me, John A. Morgante)." height="400">
+<figcaption>Fig 3. Conducting a seismic experiment using the telecom cables on campus (left to right: Me, John A. Morgante).</figcaption>
+</figure>
+
+<figure>
+<img src="./pics/Hammer_on_Briggs.HEIC" alt="Fig 4. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan." height="400">
+<figcaption>Fig 4. Performing a geophone survey on campus (left to right: Denzel Segbefia, Me). Picture credit: Congcong Yuan.</figcaption>
+</figure>
 
 ## Education
 
