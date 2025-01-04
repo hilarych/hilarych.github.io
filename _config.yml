@@ -9,3 +9,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  
+# Reading Files
+include:
+  - _pages
