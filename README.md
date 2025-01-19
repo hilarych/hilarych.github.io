@@ -70,6 +70,8 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
 
 ## Research
 
+Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2025). Investigation of site amplifications using ambient-noise-derived shallow velocity structures under a dense array in Oklahoma. [Manuscript accepted in the Bulletin of the Seismological Society of America].
+
 Chang, H., Abercrombie, R. E., & Nakata, N. (2025). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: [10.1785/0120240137](https://doi.org/10.1785/0120240137) [[AGU Poster]](https://doi.org/10.22541/essoar.173557447.71449637/v1) 
 <!---
 [[PDF]](./doc/bssa-2024137.1_accepted.pdf)
@@ -93,6 +95,4 @@ Pennington, C. N., Chang, H., Rubinstein, J. L., Abercrombie, R. E., Nakata, N.,
 Chang, H., Malcolm, A., Massin, F., and Grigoli, F. (Feb/Apr/May 2019). Automatic earthquake locating using characteristic functions in a source scanning method. Oral presentation at the GACNL Annual Technical Meeting, St John’s, NL, Canada (February); poster presentation at the EGU General Assembly, Vienna, Austria (April); invited poster presentation at the JpGU Annual Meeting, Chiba, Japan. [[Poster]](./doc/EGU_2019poster_HC_1(CC-BY).pdf)
 
 
-**In Review:**
 
-Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2024). Investigation of site amplifications using ambient-noise-derived shallow velocity structures under a dense array in Oklahoma. [Manuscript submitted in April 2024].
