@@ -69,6 +69,7 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
   [[My CV]](./doc/CV_ChangH.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=2VgGh4gAAAAJ&hl=en&oi=ao)
 
 ## Research
+(Feel free to email me if you would like to gain access to the papers!)
 
 Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2025). Investigation of site amplifications using ambient-noise-derived shallow velocity structures under a dense array in Oklahoma. [Manuscript accepted in the Bulletin of the Seismological Society of America].
 
