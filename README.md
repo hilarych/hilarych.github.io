@@ -71,7 +71,7 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
 ## Research
 (Feel free to email me if you would like to gain access to the papers!)
 
-Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2025). Investigation of site amplifications using ambient-noise-derived shallow velocity structures under a dense array in Oklahoma. [Manuscript accepted in the Bulletin of the Seismological Society of America].
+Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2025). Investigation of site amplifications using ambient-noise-derived shallow velocity structures under a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: [10.1785/0120240074](https://doi.org/10.1785/0120240074)
 
 Chang, H., Abercrombie, R. E., & Nakata, N. (2025). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: [10.1785/0120240137](https://doi.org/10.1785/0120240137) [[AGU Poster]](https://doi.org/10.22541/essoar.173557447.71449637/v1) 
 <!---
