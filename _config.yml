@@ -13,3 +13,4 @@ plugins:
 # Reading Files
 include:
   - _pages
+  - _posts
