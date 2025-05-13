@@ -54,7 +54,7 @@ tags:
 
 上圖照片後方為西教堂（Westerkerk），林布蘭（Rembrandt Harmenszoon van Rijn）的長眠處。林布蘭是一位17世紀的荷蘭畫家，作品巴洛克風格濃厚，作品充滿實驗性與對「人性本質」的描寫，喜歡畫自畫像；如果有去參觀博物館，會對這位畫家印象深刻。西教堂下面都是在排隊等待參觀安妮之家（Anne Frank House）的人潮。
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 400px" class="align-center">
 <img src="/pics/NBL_trip/IMG_3193-1.jpg">
 </figure>
 
