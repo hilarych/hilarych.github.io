@@ -7,6 +7,7 @@ tags:
   - Jekyll
   - update
 header:
+  image: "/pics/NBL_trip/IMG_6197.jpg"
   teaser: "/pics/NBL_trip/IMG_6197.jpg"
 ---
 
