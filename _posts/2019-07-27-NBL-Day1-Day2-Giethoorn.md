@@ -6,7 +6,7 @@ tags:
   - ZH-TW
 ---
 
-<figure style="width: 400px" class="align-center">
+<figure style="width: 600px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6197.jpg" alt="羊角村湖旁的水上人家與雁鴨。">
 <figcaption>羊角村湖旁的水上人家與雁鴨。</figcaption>
 </figure>
@@ -16,7 +16,7 @@ tags:
 
 羊角村在阿姆斯特丹東北方的De Wiedin自然保護區內，從機場搭火車約需2個小時才能抵達。
 
-<figure>
+<figure style="width: 600px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6180-1024x768.jpg" width="400">
 </figure>
 
@@ -26,10 +26,10 @@ Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的
 
 接下來便拎著行李直接前往羊角村。
 
-<figure style="width: 400px" class="align-center">
+<figure style="width: 600px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6181-768x576.jpg">
 </figure>
-<figure style="height: 400px" class="align-center">
+<figure style="width: 300px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6182-e1564224074257-768x1024.jpg">
 </figure>
 
