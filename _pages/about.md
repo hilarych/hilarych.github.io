@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 toc: true
+author_profile: true
 ---
 ## About Me
 
@@ -45,5 +46,3 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
 - BBA, Finance, National Taiwan University, 2009
 
   [[My CV]](/docs/CV_ChangH.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=2VgGh4gAAAAJ)
-
-
