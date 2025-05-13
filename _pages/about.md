@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## About Me
 
-I am a 6th-year PhD student studying geophysics and seismology at Massachusetts Institute of Technology.
+I am a seismologist doing postdoctoral research at the Lamont-Doherty Earth Observatory.
 
 My research interests are
 
@@ -41,8 +41,8 @@ In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rol
 
 ## Education
 
-- PhD candidate, Geophysics, Massachusetts Institute of Technology, 2019 - present
-- BSc, Earth Sciences, Memorial University of Newfoundland, 2019
+- PhD, Geophysics and Seismology, Massachusetts Institute of Technology, 2025
+- BSc, Earth Sciences (Applied Geophysics), double-minor in Physics and Mathematics, Memorial University of Newfoundland, 2019
 - BBA, Finance, National Taiwan University, 2009
 
   [[My CV]](/docs/CV_ChangH.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=2VgGh4gAAAAJ)
