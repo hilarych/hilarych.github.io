@@ -1,9 +1,9 @@
 ---
 permalink: /research/
 title: "Research"
-toc: "true"
+toc: true
+author_profile: true
 ---
-
 Feel free to email me if you would like to gain access to the papers!
 
 ## Publications
@@ -12,7 +12,7 @@ Chang, H., Qiu, H., Zhang, Z., Nakata, N., & Abercrombie, R. E. (2025). Investig
 
 Nakata, N., Chang, H., Wu, S.M., Zhengfa Bi, Chen, L.W., Soom, F., Gao, H., Titov, A., & Dadi, S. (2025). Fracture characterization revealed by microseismicity at Cape Modern Geothermal Field, Utah. Proceedings of the 50st Stanford Geothermal Workshop. [[Link]](https://pangea.stanford.edu/ERE/db/IGAstandard/record_detail.php?id=38079)
 
-Chang, H., Abercrombie, R. E., & Nakata, N. (2025). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: [10.1785/0120240137](https://doi.org/10.1785/0120240137) [[AGU Poster]](https://doi.org/10.22541/essoar.173557447.71449637/v1) 
+Chang, H., Abercrombie, R. E., & Nakata, N. (2025). Importance of considering near-surface attenuation in earthquake source parameter estimation: Insights from Kappa at a dense array in Oklahoma. Bulletin of the Seismological Society of America 2025; doi: [10.1785/0120240137](https://doi.org/10.1785/0120240137) [[AGU Poster]](https://doi.org/10.22541/essoar.173557447.71449637/v1)
 <!---
 [[PDF]](/docs/bssa-2024137.1_accepted.pdf)
 [[Supplement PDF]](/docs/bssa-2024137_accepted_supplement.pdf)
@@ -33,4 +33,3 @@ Chang, H., & Nakata, N. (2022). Investigation of time-lapse changes with DAS bor
 Pennington, C. N., Chang, H., Rubinstein, J. L., Abercrombie, R. E., Nakata, N., Uchide, T., & Cochran, E. S. (2022). Quantifying the sensitivity of microearthquake slip inversions to station distribution using a dense nodal array. Bulletin of the Seismological Society of America, 112(3), 1252-1270. [[Link]](https://doi.org/10.1785/0120210279)
 
 Chang, H., Malcolm, A., Massin, F., and Grigoli, F. (Feb/Apr/May 2019). Automatic earthquake locating using characteristic functions in a source scanning method. Oral presentation at the GACNL Annual Technical Meeting, St John’s, NL, Canada (February); poster presentation at the EGU General Assembly, Vienna, Austria (April); invited poster presentation at the JpGU Annual Meeting, Chiba, Japan. [[Poster]](/docs/EGU_2019poster_HC_1(CC-BY).pdf)
-

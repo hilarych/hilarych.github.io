@@ -8,8 +8,6 @@ main:
     url: /categories/
   - title: "Research"
     url: /research/
-  - title: "Research1"
-    url: /research1/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
