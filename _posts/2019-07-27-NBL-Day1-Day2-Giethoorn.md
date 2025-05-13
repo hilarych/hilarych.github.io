@@ -4,6 +4,8 @@ categories:
   - Travel
 tags:
   - ZH-TW
+  - Jekyll
+  - update
 header:
   teaser: "/pics/NBL_trip/IMG_6197.jpg"
 ---
