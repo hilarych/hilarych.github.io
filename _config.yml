@@ -9,8 +9,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  
+include: ["_pages"] 
 # Reading Files
-include:
-  - _pages
-  - _posts
+#include:
+#  - _pages
+#  - _posts
