@@ -4,6 +4,8 @@ categories:
   - Travel
 tags:
   - ZH-TW
+header:
+  teaser: "/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0027.jpg"
 ---
 
 <figure style="width: 600px" class="align-center">
