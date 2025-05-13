@@ -2,6 +2,7 @@ title: Hilary Chang
 logo: /pics/SSA2024_PW.jpg
 description: Near-surface geophysics/seismology.
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 #remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-paginate
