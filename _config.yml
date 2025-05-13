@@ -114,9 +114,6 @@ author:
   location         : "USA"
   email            : hc3627@columbia.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:hc3627@columbia.edu
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hilarych"
