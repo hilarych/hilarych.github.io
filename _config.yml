@@ -13,3 +13,4 @@ plugins:
 include:
   - _pages
   - _posts
+  - _data
