@@ -62,12 +62,12 @@ header:
 <img src="/pics/NBL_trip/Photo-2019-07-17-5-18-40-PM.jpg">
 </figure>
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6234-e1564272614214.jpg">
+<img src="/pics/NBL_trip/IMG_6234.jpg">
 </figure>
 
 清晨坐在博物館廣場上的人們。
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6231-e1564272556124.jpg">
+<img src="/pics/NBL_trip/IMG_6231.jpg">
 </figure>
 
 梵谷不僅是畫家，也是用油彩在畫布上雕塑的雕塑師。梵谷的作品，欣賞真跡與在畫本上看是全然不同的感受。展覽中有地方可以讓參觀者用放大鏡仔細觀賞畫布上張牙舞爪的立體油彩痕跡，也介紹時間對顏料的影響以及修復作業如何進行。
@@ -76,12 +76,7 @@ header:
 </figure>
 
 有個小展廳設計成像迷宮一樣迂迴的走道，通過其中可以體驗梵谷狂亂的精神世界，聽到他聽到的聲音、看見他看見的世界、體會他與高更決裂的痛苦、與在星空下看見的平靜。是個有點可怕但蠻酷的體驗。
-<figure style="width: 600px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6236.jpg">
-</figure>
-<figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/2019717_190727_0005.jpg">
-</figure>
+
 
 參觀完梵谷博物館，轉換心情，跳上運河遊船，在水上遊覽阿姆斯特丹（下圖紅線）。遊船上有各語言的城市簡介可以聆聽。
 <figure style="width: 600px" class="align-center">
@@ -94,7 +89,7 @@ header:
 
 運河上船隻熙來攘往。
 <figure style="width: 600px" class="align-center">
-<img src="/pics/NBL_trip/IMG_624ㄅ.jpg">
+<img src="/pics/NBL_trip/IMG_6241.jpg">
 </figure>
 <figure style="width: 600px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6247.jpg">
