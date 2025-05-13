@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Blog posts"
     url: /blog_posts/
+  - title: "Post by categories"
+    url: /categories/
   - title: "Research"
     url: /research/
   # - title: "Sample Posts"
@@ -19,12 +21,12 @@ main:
 #  - title: How to install
 #    children:
 #      - title: "For the game manager"
-#        url: /docs/use_manager/ 
+#        url: /docs/use_manager/
 #  - title: How to use
 #    children:
 #      - title: "For the game manager"
 #        url: /docs/use_manager/
 #      - title: "For the masters"
-#        url: /docs/use_masters/  
+#        url: /docs/use_masters/
 #      - title: "For the players"
 #        url: /docs/use_players/
