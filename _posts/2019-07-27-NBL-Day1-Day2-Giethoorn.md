@@ -102,5 +102,6 @@ Hotel Giethoorn是一間全自動化的旅館，Check-in、Check-out、租腳踏
 
 記得跟遇到的人說聲荷蘭文的早安（Godmorgen）喔！
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/206656.jpg">
+<img src="/pics/NBL_trip/206656.jpg" alt="羊角村充滿靈性的小貓。">
+<figcaption>羊角村充滿靈性的小貓。</figcaption>
 </figure>
