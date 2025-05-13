@@ -29,7 +29,7 @@ Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的
 <figure style="width: 600px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6181-768x576.jpg">
 </figure>
-<figure style="width: 300px" class="align-center">
+<figure style="width: 400px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6182-e1564224074257-768x1024.jpg">
 </figure>
 
