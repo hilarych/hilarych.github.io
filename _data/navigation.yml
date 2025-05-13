@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Posts"
+  - title: "By Year"
     url: /blog_posts/
   - title: "By Categories"
     url: /categories/

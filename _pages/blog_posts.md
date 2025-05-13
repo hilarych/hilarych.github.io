@@ -1,5 +1,6 @@
 ---
 permalink: /blog_posts/
-title: "Blog posts"
-toc: "true"
+title: "Posts by Year"
+toc: true
+author_profile: true
 ---
