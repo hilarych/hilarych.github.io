@@ -4,10 +4,7 @@ categories:
   - Travel
 tags:
   - ZH-TW
-  - Jekyll
-  - update
 header:
-  image: "/pics/NBL_trip/IMG_6197.jpg"
   teaser: "/pics/NBL_trip/IMG_6197.jpg"
 ---
 
@@ -22,7 +19,7 @@ header:
 羊角村在阿姆斯特丹東北方的De Wiedin自然保護區內，從機場搭火車約需2個小時才能抵達。
 
 <figure style="width: 600px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6180-1024x768.jpg" width="400">
+<img src="/pics/NBL_trip/IMG_6180.jpg">
 </figure>
 
 Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的好朋友，它的麵包和沙拉在台灣都是專賣店的等級但卻是超級平民的價格！
@@ -32,10 +29,10 @@ Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的
 接下來便拎著行李直接前往羊角村。
 
 <figure style="width: 600px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6181-768x576.jpg">
+<img src="/pics/NBL_trip/IMG_6181.jpg">
 </figure>
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6182-e1564224074257-768x1024.jpg">
+<img src="/pics/NBL_trip/IMG_6182-e1564224074257.jpg">
 </figure>
 
 從Schiphol Airport搭火車到Kampen Zuid轉搭接駁車到Zwolle，再搭火車到Steenwijk，轉70或270公車前往最接近我們下榻旅館Hotel Giethoorn的Giethoorn Hollands Veneties站。
