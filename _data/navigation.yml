@@ -1,0 +1,30 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Blog posts"
+    url: /blog_posts/
+  - title: "Research"
+    url: /research/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+#docs:
+#  - title: How to install
+#    children:
+#      - title: "For the game manager"
+#        url: /docs/use_manager/ 
+#  - title: How to use
+#    children:
+#      - title: "For the game manager"
+#        url: /docs/use_manager/
+#      - title: "For the masters"
+#        url: /docs/use_masters/  
+#      - title: "For the players"
+#        url: /docs/use_players/
