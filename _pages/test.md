@@ -1,3 +1,14 @@
+---
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+---
+
 ## About Me
 
 I am a 6th-year PhD student studying geophysics and seismology at Massachusetts Institute of Technology.
