@@ -5,7 +5,7 @@ categories:
 tags:
   - ZH-TW
 header:
-  teaser: "/pics/NBL_trip/IMG_6197.jpg"
+  teaser: "/pics/NBL_trip/IMG_6303.jpg"
 ---
 <figure style="width: 600px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6303.jpg" alt="林布蘭故居桌上五顏六色的顏料；當時畫家所用的油畫顏料是使用各種草藥與日常材料如亞麻仁油等調製。">
