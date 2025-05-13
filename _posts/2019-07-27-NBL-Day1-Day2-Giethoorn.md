@@ -7,17 +7,18 @@ tags:
 ---
 
 <figure>
-<img src="/pics/NBL_trip/IMG_6209.jpg" alt="Fig 4. Waiting for the geese to cross the river." width="600">
+<img src="/pics/NBL_trip/IMG_6197.jpg" alt="羊角村湖旁的水上人家與雁鴨。" width="600">
 <figcaption>羊角村湖旁的水上人家與雁鴨。</figcaption>
 </figure>
-
 
 坐荷蘭航空（KLM）台北直飛阿姆斯特丹的飛機，約12~13小時就抵達荷蘭了！下飛機時間早上六點多，正好是一天的開始，我們在機場換了荷蘭電信的SIM卡、買了過幾天要用的阿姆斯特丹城市卡（I amsterdam City Card），準備前往羊角村（Giethoorn），開始我們11天的荷比盧之行。
 
 
 羊角村在阿姆斯特丹東北方的De Wiedin自然保護區內，從機場搭火車約需2個小時才能抵達。
 
-
+<figure>
+<img src="/pics/NBL_trip/IMG_6180-1024x768.jpg" width="400">
+</figure>
 
 Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的好朋友，它的麵包和沙拉在台灣都是專賣店的等級但卻是超級平民的價格！
 
@@ -25,7 +26,9 @@ Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的
 
 接下來便拎著行李直接前往羊角村。
 
-
+<figure>
+<img src="/pics/NBL_trip/IMG_6181-768x576.jpg" width="400">
+</figure>
 
 從Schiphol Airport搭火車到Kampen Zuid轉搭接駁車到Zwolle，再搭火車到Steenwijk，轉70或270公車前往最接近我們下榻旅館Hotel Giethoorn的Giethoorn Hollands Veneties站。
 
