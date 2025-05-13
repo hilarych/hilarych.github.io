@@ -1,4 +1,4 @@
-/docs/---
+---
 permalink: /research/
 title: "Research"
 toc: "true"
