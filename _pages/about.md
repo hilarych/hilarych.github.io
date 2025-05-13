@@ -1,4 +1,7 @@
 ---
+permalink: /about/
+title: "About"
+toc: true
 defaults:
   # _pages
   - scope:
