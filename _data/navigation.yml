@@ -2,14 +2,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
-  - title: "Blog posts"
+  - title: "Posts"
     url: /blog_posts/
-  - title: "Post by categories"
+  - title: "By Categories"
     url: /categories/
   - title: "Research"
     url: /research/
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
