@@ -44,7 +44,7 @@ header:
 
 可以試吃好多種口味的乳酪！
 <figure style="width: 600px" class="align-center">
-<img src="/pics/NBL_trip/2019719_190727_0118.jpg>
+<img src="/pics/NBL_trip/2019719_190727_0118.jpg">
 </figure>
 
 
