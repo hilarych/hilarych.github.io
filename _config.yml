@@ -19,7 +19,7 @@ include:
 locale                   : "en-US"
 title                    : "Hilary Chang"
 title_separator          : "-"
-subtitle                 : "Less is more." # site tagline that appears below site title in masthead
+subtitle                 : "What a wonderful world." # site tagline that appears below site title in masthead
 name                     : "Hilary Chang"
 description              : "My personal website"
 url                      : "https://hilarych.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
