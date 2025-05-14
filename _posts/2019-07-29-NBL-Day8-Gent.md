@@ -124,7 +124,7 @@ header:
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0046.jpg">
 </figure>
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6756-e1564379728134.jpg">
+<img src="/pics/NBL_trip/IMG_6756.jpg">
 </figure>
 
 
@@ -135,7 +135,7 @@ header:
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0047.jpg">
 </figure>
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6757-e1564379741905.jpg">
+<img src="/pics/NBL_trip/IMG_6757.jpg">
 </figure>
 
 
