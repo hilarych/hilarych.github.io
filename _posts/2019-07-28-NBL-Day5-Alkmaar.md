@@ -49,7 +49,7 @@ header:
 
 
 有點酷的阿罵。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 400px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6471.jpg">
 </figure>
 
