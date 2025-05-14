@@ -32,7 +32,7 @@ Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的
 <img src="/pics/NBL_trip/IMG_6181.jpg">
 </figure>
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6182-e1564224074257.jpg">
+<img src="/pics/NBL_trip/IMG_6182.jpg">
 </figure>
 
 從Schiphol Airport搭火車到Kampen Zuid轉搭接駁車到Zwolle，再搭火車到Steenwijk，轉70或270公車前往最接近我們下榻旅館Hotel Giethoorn的Giethoorn Hollands Veneties站。

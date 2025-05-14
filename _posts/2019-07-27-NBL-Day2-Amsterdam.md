@@ -74,7 +74,7 @@ header:
 
 
 阿姆斯特丹運河上的船屋，和到處停放的腳踏車，跟台大有得比！
-<figure style="width: 600px" class="align-center">
+<figure style="width: 400px" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0011.jpg">
 </figure>
 <figure style="width: 600px" class="align-center">
