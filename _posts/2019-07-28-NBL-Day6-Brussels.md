@@ -42,7 +42,7 @@ header:
 <img src="/pics/NBL_trip/IMG_6537.jpg">
 </figure>
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6540-e1564313670629.jpg">
+<img src="/pics/NBL_trip/IMG_6540.jpg">
 </figure>
 
 雨中空曠的布魯塞爾大廣場，大概有上百人圍著廣場看我們三個在拍照！畢竟我們是來自包包裡隨時準備雨衣雨傘的副熱帶島國。
