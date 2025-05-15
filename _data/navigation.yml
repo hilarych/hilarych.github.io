@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Posts"
     url: /
-  - title: "By Year"
+  - title: "by Year"
     url: /blog_posts/
-  - title: "By Categories"
+  - title: "by Categories"
     url: /categories/
+  - title: "by tag"
+    url: /tags/
   - title: "Research"
     url: /research/
   - title: "About"
