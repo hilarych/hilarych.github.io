@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 1＆2 : 昔日窮人挖掘泥煤的水邊聚落 — 羊角村（Giethoorn）"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
   - ZH-TW
+  - NBL
 date:               2019-07-27 09:35:33 +0000
 header:
   teaser: "/pics/NBL_trip/IMG_6197.jpg"

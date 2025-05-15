@@ -1,5 +1,5 @@
 title: Hilary Chang
-logo: /pics/SSA2024_PW.jpg
+logo: /pics/site/SSA2024_PW.jpg
 description: Near-surface geophysics/seismology.
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -26,7 +26,7 @@ url                      : "https://hilarych.github.io/" # the base hostname & p
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hilarych" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/pics/duck-icon.png"
+logo                     : "/pics/site/duck-icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Hilary Chang"
-  avatar           : "/pics/Dr.C.png"
+  avatar           : "/pics/site/Dr.C.png"
   bio              : "A paddler, sketcher, guitarist, geophysicist, wood worker, rollerbalder, diver, and duck lover."
   location         : "USA"
   email            : hc3627@columbia.edu

@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 7 : 歐洲的後陽台 — 盧森堡（Luxembourg）"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
   - ZH-TW
+  - NBL
 date:               2019-07-29 03:05:38 +0000
 header:
   teaser: "/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17118533_190727_0059.jpg"

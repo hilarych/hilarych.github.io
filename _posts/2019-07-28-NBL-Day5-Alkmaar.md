@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 5 : 阿克瑪乳酪市場（Alkmaar）、贊丹（Zaanse Schans）風車村"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
   - ZH-TW
+  - NBL
 date:               2019-07-28 08:39:58 +0000
 header:
   teaser: "/pics/NBL_trip/2019719_190727_0051.jpg"

@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 10 : 仍訴說著中世紀的榮光 — 布魯日（Brugge）"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
   - ZH-TW
+  - NBL
 date:               2019-07-29 16:06:15 +0000
 header:
   teaser: "/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17160670_190727_0099.jpg"

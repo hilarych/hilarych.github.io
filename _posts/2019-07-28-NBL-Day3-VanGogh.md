@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 3 : 荷蘭藝術家梵谷與林布蘭、運河之都阿姆斯特丹"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
   - ZH-TW
+  - NBL
 date:               2019-07-28 14:34:30 +0000
 header:
   teaser: "/pics/NBL_trip/IMG_6303.jpg"

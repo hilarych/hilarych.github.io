@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 2：阿姆斯特丹（Amsterdam）入境隨俗騎單車"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
   - ZH-TW
+  - NBL
 date:               2019-07-27 14:31:50 +0000
 header:
   teaser: "/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0027.jpg"

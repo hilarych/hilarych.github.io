@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 9 : 安特衛普（Antwerpen）的印刷科技 — 宗教到科學的轉捩點、法蘭德斯藝術（Flanders）、根特夜之城"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
   - ZH-TW
+  - NBL
 date:               2019-07-29 10:35:15 +0000
 header:
   teaser: "/pics/NBL_trip/IMG_6871.jpg"

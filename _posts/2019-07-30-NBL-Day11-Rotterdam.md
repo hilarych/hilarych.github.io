@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 11 : 歐洲破紀錄熱浪、勇於做自己的鹿特丹（Rotterdam）"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
   - ZH-TW
+  - NBL
 date:               2019-07-30 04:49:30 +0000
 header:
   teaser: "/pics/NBL_trip/Photo-2019-07-25-10-42-37-PM.jpg"
