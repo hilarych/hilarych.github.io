@@ -8,7 +8,7 @@ date:               2019-07-29 06:28:17 +0000
 header:
   teaser: "/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0012.jpg"
 ---
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0012.jpg" alt="市政廳（Hotel de Ville）建於15世紀；左、右翼與中間鐘塔分別由不同建築師設計建造，所以不太對稱。高達96公尺的哥德式尖塔，是廣場上最雄偉的地標。">
 <figcaption>市政廳（Hotel de Ville）建於15世紀；左、右翼與中間鐘塔分別由不同建築師設計建造，所以不太對稱。高達96公尺的哥德式尖塔，是廣場上最雄偉的地標。</figcaption>
 </figure>
@@ -18,16 +18,16 @@ header:
 
 清晨的廣場人煙稀少，只有貨車忙著向廣場的餐廳補貨，準備開始新一天的營業。
 
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6729.jpg">
 </figure>
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0026.jpg">
 </figure>
 
 
 這些廣場周圍的建築都是以前的同業公會，可藉由屋頂上的裝飾辨認所屬公會。下圖緊鄰旗子右邊、有著船尾形狀樓頂的是「船夫之家」（Le Cornet）；再右邊屋頂有隻金色展翅孔雀的是「母狼之家」（La Louve），為弓箭手行會；再右邊「袋子樓」（Le Sac）是木匠和銅匠之家；接著是油漆公會「獨輪車樓」（La Brouette），在頂樓鑲有油漆業守護聖人聖吉爾像；最右側則是「麵包之家」（Le Roy d’Espagne），麵包同業公會為布魯塞爾勢力最大最富有的同業公會。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6727.jpg">
 </figure>
 
@@ -36,7 +36,7 @@ header:
 
 
 旗子右方，廣場角落的為典當業行會「狐狸樓」（Le Renard），屋頂站立一黑色主保聖人聖尼古拉斯像。Wiki說前方的四個人像象徵四大洲「亞洲、歐洲、非洲、美洲」，不過我怎麼數那邊都有五個人，不知道多出來的那人是誰。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6731.jpg">
 </figure>
 
@@ -46,7 +46,7 @@ header:
 
 
 這是布拉班特公爵之家（Residence of the Dukes of Brabant），建築上的半身像們為歷任的布拉班特公爵。建築內部作為製革、磨坊、煤炭、雕塑、採石同業行會使用。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0019.jpg">
 </figure>
 
@@ -54,49 +54,49 @@ header:
 
 
 從最左邊國王之家右側開始，分別為地方官辦公室（La Chambrette de L’Amman）、畫家行會鴿子樓（Le Pigeon）（維克多 · 雨果在反抗拿破崙三世時曾短暫居住於此）、頂端站立守護聖人的裁縫行會（La Chaloupe d’Or ou la Maison des Milleurs）、曾為修道院的天使樓（L’Ange）、私人宅邸約瑟夫與安妮樓（Joseph et Anne）和鹿樓（Le Cerf）。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6722.jpg">
 </figure>
 
 
 晨間寧靜的布魯塞爾街頭：
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6749.jpg">
 </figure>
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6742.jpg">
 </figure>
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6750.jpg">
 </figure>
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0067.jpg">
 </figure>
 
 有趣的潛水者像。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6743.jpg">
 </figure>
 
 
 還沒開門的尿尿小童專賣店及牆上塗鴉。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6738.jpg">
 </figure>
 
 又在玩腳踏車了！
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6734.jpg">
 </figure>
 
 薩布隆聖母教堂（église Notre-Dame du Sablon）位於市區薩布隆廣場附近，附近有許多古董店。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0064.jpg">
 </figure>
 
 
 聳立於皇宮前的步兵紀念碑 （Monument A la Gloire de l’Infanterie Belge），紀念一次及二次大戰中的陣亡將士。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6746.jpg">
 </figure>
 
@@ -104,7 +104,7 @@ header:
 比利時皇宮前的視野很好，可以望到遠處的原子塔喔！
 
 你分得出哪個是荷蘭哪個是盧森堡嗎？
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6747.jpg">
 </figure>
 
@@ -121,10 +121,10 @@ header:
 
 聖尼可拉斯教堂（Sint-Niklaaskerk）建於10世紀時原為羅馬風格，到13~15世紀以青石重建成當時低地國流行的斯凱爾特哥德樣式（Scheldt Gothic）。右側的當代建築為玻璃外層包覆橡木內裡的城市大廳（Stadshal），是個半戶外的展演場所。
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0046.jpg">
 </figure>
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6756.jpg">
 </figure>
 
@@ -132,17 +132,17 @@ header:
 
 
 根特鐘樓（Belfort）為世界文化遺產。走在根特街頭，整點時，可以聽見鐘塔敲響的悠揚樂音。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0047.jpg">
 </figure>
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6757.jpg">
 </figure>
 
 
 
 根特古城美麗的天際線。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/Photo-2019-07-22-6-55-02-PM.jpg">
 </figure>
 
@@ -150,16 +150,16 @@ header:
 
 天氣真的越來越熱了！
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6759.jpg">
 </figure>
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6763.jpg">
 </figure>
 
 
 好像是一所學校。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6760.jpg">
 </figure>
 
@@ -167,25 +167,25 @@ header:
 藝術節的好處就是路邊有很多免費廁所！非常乾淨，因為每個人用完後門口的清潔人員都會再進去清潔一次。擦馬桶的敬業程度讓我忽然以為來到日本。
 
 這是路邊的男生小便斗。身高不夠還不能尿… （我爸178cm去當比例尺）
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0056.jpg">
 </figure>
 
 
 到處都是的Albert Heijn超市在根特竟然開在古堡裡。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0058.jpg">
 </figure>
 
 
 運河邊的腳踏車。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6774.jpg">
 </figure>
 
 
 晚上七八點，太陽仍然沒有落下的意思。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6770.jpg">
 </figure>
 

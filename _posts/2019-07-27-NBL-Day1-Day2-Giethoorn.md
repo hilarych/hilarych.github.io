@@ -9,7 +9,7 @@ header:
   teaser: "/pics/NBL_trip/IMG_6197.jpg"
 ---
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6197.jpg" alt="羊角村湖旁的水上人家與雁鴨。">
 <figcaption>羊角村湖旁的水上人家與雁鴨。</figcaption>
 </figure>
@@ -19,7 +19,7 @@ header:
 
 羊角村在阿姆斯特丹東北方的De Wiedin自然保護區內，從機場搭火車約需2個小時才能抵達。
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6180.jpg">
 </figure>
 
@@ -29,10 +29,10 @@ Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的
 
 接下來便拎著行李直接前往羊角村。
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6181.jpg">
 </figure>
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6182.jpg">
 </figure>
 
@@ -45,7 +45,7 @@ Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的
 
 
 放了行李後，先去附近的餐廳Hollands Veneties吃羊角村風味餐：
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/2019715_190727_0008.jpg">
 </figure>
 
@@ -54,57 +54,57 @@ Albert Heijn這間到處都是、物美價廉的超市成為我們之後11天的
 
 
 Hotel Giethoorn是一間全自動化的旅館，Check-in、Check-out、租腳踏車和租船都要自己來！老實說有點像在玩密室逃脫或什麼解謎遊戲，要幾分鐘之內到哪裡去按什麼鈕取得鑰匙、去取幾號船之類的….
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6203.jpg">
 </figure>
 
 冰河時期，羊角村的位置處於兩個冰磧帶之間，造成土壤貧瘠，無法種植作物，只有蘆葦能夠生長。自13世紀以來只有窮人住在這裡，靠挖掘泥煤維生。窮人蓋的房子也只能以蘆葦當屋頂，這些有著蘆葦屋頂的房子到了今日卻成為羊角村最有特色的景觀。
 
 當時運送泥煤的渠道，讓整個羊角村像「荷蘭的威尼斯」。來到羊角村，一定要租小船在這水鄉澤國中體驗鄉野村屋的寧靜氛圍。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/2019715_190727_0014.jpg">
 </figure>
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/2019715_190727_0010.jpg">
 </figure>
 
 船比想像中難開，本來以為我獨木舟經驗豐富應該沒問題的，還是要全神貫注地開才不會在單行道上擋路。但羊角村的美是一定要在小船上才能體驗的！
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6191.jpg">
 </figure>
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6186.jpg">
 </figure>
 
 大湖上的雁鴨
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6196.jpg">
 </figure>
 
 夜間雁鴨慢慢地回巢，我們很小心不要打擾牠們。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/2019715_190727_0035.jpg">
 </figure>
 
 早上的羊角村，草地上還留著露珠，幾乎沒有其他人，空氣中可以嗅聞那靜謐的美。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/2019715_190727_0063.jpg">
 </figure>
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/2019715_190727_0064.jpg">
 </figure>
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6209.jpg">
 </figure>
 
 蘆葦屋正在進行屋頂置換作業
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_6198.jpg">
 </figure>
 
 
 記得跟遇到的人說聲荷蘭文的早安（Godmorgen）喔！
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/206656.jpg" alt="羊角村充滿靈性的小貓。">
 <figcaption>羊角村充滿靈性的小貓。</figcaption>
 </figure>

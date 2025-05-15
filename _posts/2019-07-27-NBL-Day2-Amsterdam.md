@@ -9,7 +9,7 @@ header:
   teaser: "/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0027.jpg"
 ---
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0027.jpg" alt="阿姆斯特丹是個被層層運河畫著同心圓的熱鬧都市。">
 <figcaption>阿姆斯特丹是個被層層運河畫著同心圓的熱鬧都市。</figcaption>
 </figure>
@@ -28,7 +28,7 @@ header:
 
 荷蘭是單車王國，在搭火車的途中我們已經看到街道上腳踏車的盛況。放好行李後我們入境隨俗，租單車去市區探路。
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0007.jpg">
 </figure>
 
@@ -37,25 +37,25 @@ header:
 
 靠近Sloterdijk站最近的超市似乎在一個中東生活區，街頭的商店賣的都是中東商品，走在街頭的也都是中東面孔，充滿異國風情。
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0008.jpg">
 </figure>
 
 沿著19號路面電車線前往市區。在荷蘭騎腳踏車，過馬路時要注意是看「腳踏車號誌」而不是行人或汽車號誌。另外機車也是在腳踏車道上行駛，所以一開始會有點混亂。令我有點驚訝的是荷蘭騎機車是不用戴安全帽的！
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_3174.jpg">
 </figure>
 
 上圖為標準阿姆斯特丹複雜的「米字路口」、路面電車線在天空上畫出阡陌縱橫的圖案、馬路上不知道在畫什麼的指示線與大小號誌燈。
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0025.jpg">
 </figure>
 
 上圖照片後方為西教堂（Westerkerk），林布蘭（Rembrandt Harmenszoon van Rijn）的長眠處。林布蘭是一位17世紀的荷蘭畫家，作品巴洛克風格濃厚，作品充滿實驗性與對「人性本質」的描寫，喜歡畫自畫像；如果有去參觀博物館，會對這位畫家印象深刻。西教堂下面都是在排隊等待參觀安妮之家（Anne Frank House）的人潮。
 
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/IMG_3193-1.jpg">
 </figure>
 
@@ -63,27 +63,27 @@ header:
 
 靠近看才能體會西教堂的雄偉壯觀。
 
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0017.jpg">
 </figure>
 
 櫥窗內各種裝扮的黃色小鴨。這在歐洲好像很普遍？在維也納也常看到。
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0028.jpg">
 </figure>
 
 
 
 阿姆斯特丹運河上的船屋，和到處停放的腳踏車，跟台大有得比！
-<figure style="width: 400px" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17048595_190727_0011.jpg">
 </figure>
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_3173.jpg">
 </figure>
 
 Albert Heijn超市買了橘子、桃子、歐式麵包、凱撒沙拉和蘋果汁，一餐5歐元內就可以吃得很滿足！
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/IMG_3165.jpg">
 </figure>
 
