@@ -4,7 +4,7 @@ main:
     url: /
   - title: "by Year"
     url: /blog_posts/
-  - title: "by Categories"
+  - title: "by Category"
     url: /categories/
   - title: "by Tag"
     url: /tags/
