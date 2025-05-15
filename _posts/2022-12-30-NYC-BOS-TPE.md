@@ -3,7 +3,7 @@ title: "多舛的解封後回台旅程"
 categories:
   - Travel-USA
 tags:
-  - ZH-TW
+  - In Mandarin
   - USA
 date:               2022-12-30 23:40:58 +0000
 header:

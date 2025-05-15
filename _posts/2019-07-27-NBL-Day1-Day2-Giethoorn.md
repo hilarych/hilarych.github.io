@@ -3,7 +3,7 @@ title: "[荷比盧] Day 1＆2 : 昔日窮人挖掘泥煤的水邊聚落 — 羊�
 categories:
   - Travel-Europe
 tags:
-  - ZH-TW
+  - In Mandarin
   - NBL
 date:               2019-07-27 09:35:33 +0000
 header:

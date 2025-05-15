@@ -3,7 +3,7 @@ title: "[荷比盧] Day 11 : 歐洲破紀錄熱浪、勇於做自己的鹿特丹
 categories:
   - Travel-Europe
 tags:
-  - ZH-TW
+  - In Mandarin
   - NBL
 date:               2019-07-30 04:49:30 +0000
 header:

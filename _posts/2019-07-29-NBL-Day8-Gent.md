@@ -1,9 +1,10 @@
 ---
 title: "[荷比盧] Day 8 : 大廣場（Grand Place）的清晨、狂歡的根特（Gent）"
 categories:
-  - Travel
+  - Travel-Europe
 tags:
-  - ZH-TW
+  - In Mandarin
+  - NBL
 date:               2019-07-29 06:28:17 +0000
 header:
   teaser: "/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17130692_190727_0012.jpg"
