@@ -8,7 +8,7 @@ date:               2019-07-30 04:49:30 +0000
 header:
   teaser: "/pics/NBL_trip/Photo-2019-07-25-10-42-37-PM.jpg"
 ---
-<figure style="width: 600px" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NBL_trip/Photo-2019-07-25-10-42-37-PM.jpg" alt="鹿特丹中央車站的古銅金色在陽光下犀利得像一把刀，劃破蔚藍天際，一景道出這座城市在荷比盧眾都市中獨樹一幟的風格。">
 <figcaption>鹿特丹中央車站的古銅金色在陽光下犀利得像一把刀，劃破蔚藍天際，一景道出這座城市在荷比盧眾都市中獨樹一幟的風格。</figcaption>
 </figure>
@@ -35,7 +35,7 @@ header:
 
 
 我們在車站前的Zwaan Bike租了三輛腳踏車，一台日租12歐，加寄放行李一件3歐，店內廁所的水龍頭水很冰涼。店員似乎對我們這麼耐熱要在這種天氣出去騎車感到很佩服。
-<figure style="width: 400px" class="align-center">
+<figure style="width: 70%" class="align-center">
 <img src="/pics/NBL_trip/ce3b055773122daac4895842f82504ec9_17174504_190727_0008.jpg">
 </figure>
 
