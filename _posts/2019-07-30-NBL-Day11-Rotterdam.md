@@ -115,6 +115,7 @@ header:
 在小巷子一個工作室的前面，發現一個看板，用粉筆寫著
 
 >_Be yourself,_
+
 >_everyone else is taken._
 
 <figure style="width: 400px" class="align-center">
