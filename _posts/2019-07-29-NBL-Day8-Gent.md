@@ -96,7 +96,7 @@ header:
 
 聳立於皇宮前的步兵紀念碑 （Monument A la Gloire de l’Infanterie Belge），紀念一次及二次大戰中的陣亡將士。
 <figure style="width: 400px" class="align-center">
-<img src="/pics/NBL_trip/IMG_6746-e1564371148467.jpg">
+<img src="/pics/NBL_trip/IMG_6746.jpg">
 </figure>
 
 
