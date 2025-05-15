@@ -30,15 +30,15 @@ header:
 <img src="/pics/NYC_2022/PXL_20221223_100252012.jpg" alt="JFK機場國內線5航廈對面TWA旅館大廳是個休息的好地方，在等旅館發配時我就在這裡使用免費插座。">
 <figcaption>JFK機場國內線5航廈對面TWA旅館大廳是個休息的好地方，在等旅館發配時我就在這裡使用免費插座。</figcaption>
 </figure>
-<figure style="width: 80%" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NYC_2022/PXL_20221223_181653538.jpg" alt="等了好幾個小時和跟Jetblue客服拼命溝通後，終於安排好前兩天住Crowne Plaza Hotel，這些機場附近的旅館幾乎都有免費接駁車到機場Airtrain的Federal Circle站。">
 <figcaption>等了好幾個小時和跟Jetblue客服拼命溝通後，終於安排好前兩天住Crowne Plaza Hotel，這些機場附近的旅館幾乎都有免費接駁車到機場Airtrain的Federal Circle站。</figcaption>
 </figure>
-<figure style="width: 80%" class="align-center">
+<figure style="width: 100%" class="align-center">
 <img src="/pics/NYC_2022/PXL_20221225_144450185.jpg" alt="第三天Jetblue給我換到Hilton Garden Inn。申請到的時候很開心，本來擔心有可能被拒絕要睡機場的。">
 <figcaption>第三天Jetblue給我換到Hilton Garden Inn。申請到的時候很開心，本來擔心有可能被拒絕要睡機場的。</figcaption>
 </figure>
-<figure style="width: 100%" class="align-center">
+<figure style="width: 80%" class="align-center">
 <img src="/pics/NYC_2022/PXL_20221224_154419044.jpg" alt="意外的紐約三日行，聖誕前夕的時代廣場頗為熱鬧。">
 <figcaption>意外的紐約三日行，聖誕前夕的時代廣場頗為熱鬧。</figcaption>
 </figure>
@@ -106,4 +106,4 @@ JFK機場國內線5航廈對面TWA旅館大廳是個休息的好地方，在等�
 
 4. 下次還是乖乖坐火車接直達班機吧，昨天又接到華航通知回程航班Jetblue取消，華航只能幫改訂Delta，不然就要在機場滯留一晚。美國國內線轉機真的能免則免。
 
- 5. 希望大家儘管再挫敗，都對辛苦的地勤和客服有禮貌一點，不要吵，他們真的很辛苦… 立場要堅定要不斷詢問但要溫和，這個時機還在這行業幫我們服務的都是天使，有機會可以鼓勵他們一下表達自己的感謝。
+5. 希望大家儘管再挫敗，都對辛苦的地勤和客服有禮貌一點，不要吵，他們真的很辛苦… 立場要堅定要不斷詢問但要溫和，這個時機還在這行業幫我們服務的都是天使，有機會可以鼓勵他們一下表達自己的感謝。
