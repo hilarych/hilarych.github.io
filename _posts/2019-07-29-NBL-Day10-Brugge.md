@@ -114,7 +114,7 @@ header:
 </figure>
 
 大概是教堂大廳的巴洛克畫作太精彩了，旁邊的小堂裡空無一人。仔細一看裡面躺了一個人，是耶穌的蠟像！這個景象太震撼了，怎麼都沒有人來關心他呢？＠＠
-<figure style="width: 600px" class="align-center">
+<figure style="width: ˋ00px" class="align-center">
 <img src="/pics/NBL_trip/IMG_6976.jpg">
 </figure>
 
