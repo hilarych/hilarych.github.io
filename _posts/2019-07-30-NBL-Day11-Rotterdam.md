@@ -114,8 +114,8 @@ header:
 
 在小巷子一個工作室的前面，發現一個看板，用粉筆寫著
 
-    _Be yourself,_
-    _everyone else is taken._
+>_Be yourself,_
+>_everyone else is taken._
 
 <figure style="width: 400px" class="align-center">
 <img src="/pics/NBL_trip/Photo-2019-07-25-9-50-23-PM.jpg">
