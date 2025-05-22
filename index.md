@@ -17,9 +17,9 @@ I am right now a seismologist doing postdoctoral research at the Lamont-Doherty 
 My research interests are
 
 - Source characterization for small to moderate earthquakes.
--	Near-surface structure (Fig. 1,2).
+-	Near-surface structure.
 -	Ambient noise seismology.
--	Fiber-optic seismology (Fig. 3).
+-	Fiber-optic seismology.
 -	Applications in reservoir and fault monitoring, geothermal exploration, and carbon storage.
 
-In my free time, I like paddling (Fig. 4), sailing on the Charles River, and rollerblading along the riverside.
+In my free time, I like paddling, sailing on the Charles River, and rollerblading along the riverside.
