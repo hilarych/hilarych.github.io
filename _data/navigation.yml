@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "by Year"
+  - title: "Posts by Year"
     url: /blog_posts/
   - title: "by Category"
     url: /categories/
