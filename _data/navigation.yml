@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
   - title: "Posts"
     url: /
   - title: "by Year"
@@ -8,10 +12,7 @@ main:
     url: /categories/
   - title: "by Tag"
     url: /tags/
-  - title: "Research"
-    url: /research/
-  - title: "About"
-    url: /about/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
