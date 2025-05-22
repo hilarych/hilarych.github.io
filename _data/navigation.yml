@@ -6,8 +6,6 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Posts"
-    url: /
   - title: "by Year"
     url: /blog_posts/
   - title: "by Category"
