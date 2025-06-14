@@ -5,7 +5,7 @@ categories:
 tags:
   - In Mandarin
   - NBL
-date:               2019-07-28 14:34:30 +0000
+date:               2019-07-28 02:34:30 +0000
 header:
   teaser: "/pics/NBL_trip/IMG_6303.jpg"
 ---
