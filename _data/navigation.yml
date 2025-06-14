@@ -8,7 +8,7 @@ main:
     url: /research/
   - title: "Posts by Year"
     #url: /blog_posts/
-    url: /blog_posts/
+    url: /year-archive/
   - title: "by Category"
     url: /categories/
   - title: "by Tag"

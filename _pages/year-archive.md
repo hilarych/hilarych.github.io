@@ -1,7 +1,7 @@
 ---
 title: "Posts by Year"
-permalink: /blog_posts/
-layout: tags
+permalink: /year-archive/
+layout: posts
 toc: true
 author_profile: true
 ---
