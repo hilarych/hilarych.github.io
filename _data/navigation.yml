@@ -7,6 +7,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Posts by Year"
+    #url: /blog_posts/
     url: /blog_posts/
   - title: "by Category"
     url: /categories/
